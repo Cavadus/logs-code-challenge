@@ -4,13 +4,13 @@
 ### How to Run
 
 1. Clone repository
-    a. *HTTP*
+*HTTP*
 
     git pull https://github.com/Cavadus/logs-code-challenge.git
 
 **OR**
 
-    b. *SSH*
+*SSH*
 
     git pull git@github.com:Cavadus/logs-code-challenge.git
 
