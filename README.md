@@ -4,6 +4,7 @@
 ### How to Run
 
 1. Clone repository
+
 *HTTP*
 
     git pull https://github.com/Cavadus/logs-code-challenge.git
