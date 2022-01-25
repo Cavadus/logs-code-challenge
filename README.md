@@ -3,18 +3,17 @@
 
 ### How to Run
 
--Clone repository
-
-*HTTP*
+1. Clone repository
+    a. *HTTP*
 
     git pull https://github.com/Cavadus/logs-code-challenge.git
 
 **OR**
 
-*SSH*
+    b. *SSH*
 
     git pull git@github.com:Cavadus/logs-code-challenge.git
 
--CD to repository's directory
--Run:
+2.  to repository's directory
+3. Run:
     python main.py
