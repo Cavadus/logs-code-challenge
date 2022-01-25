@@ -17,4 +17,5 @@
 
 2. CD to repository's directory
 3. Run:
+
     python3 main.py
