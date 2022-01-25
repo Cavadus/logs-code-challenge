@@ -15,6 +15,6 @@
 
     git pull git@github.com:Cavadus/logs-code-challenge.git
 
-2.  to repository's directory
+2. CD to repository's directory
 3. Run:
     python main.py
